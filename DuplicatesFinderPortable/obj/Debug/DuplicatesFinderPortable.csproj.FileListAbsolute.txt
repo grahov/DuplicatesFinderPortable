@@ -1,0 +1,7 @@
+C:\Users\Konvy\source\repos\DuplicatesFinderPortable\DuplicatesFinderPortable\bin\Debug\DuplicatesFinderPortable.exe.config
+C:\Users\Konvy\source\repos\DuplicatesFinderPortable\DuplicatesFinderPortable\bin\Debug\DuplicatesFinderPortable.exe
+C:\Users\Konvy\source\repos\DuplicatesFinderPortable\DuplicatesFinderPortable\bin\Debug\DuplicatesFinderPortable.pdb
+C:\Users\Konvy\source\repos\DuplicatesFinderPortable\DuplicatesFinderPortable\obj\Debug\DuplicatesFinderPortable.csprojAssemblyReference.cache
+C:\Users\Konvy\source\repos\DuplicatesFinderPortable\DuplicatesFinderPortable\obj\Debug\DuplicatesFinderPortable.csproj.CoreCompileInputs.cache
+C:\Users\Konvy\source\repos\DuplicatesFinderPortable\DuplicatesFinderPortable\obj\Debug\DuplicatesFinderPortable.exe
+C:\Users\Konvy\source\repos\DuplicatesFinderPortable\DuplicatesFinderPortable\obj\Debug\DuplicatesFinderPortable.pdb
